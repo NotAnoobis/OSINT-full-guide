@@ -1,5 +1,5 @@
 # OSINT-full-guide
-Hey Folks! I made this repostory to share with you how I conduct a detailed OSINT investigation and to share my notes and checklist. We call these type of engagements INVESTIGATIONS or RESEARCHES not assesments, because you should NEVER interact directly with your target. Also I suggest you to open up the checklist and follow along with the explaination
+Hey Folks! I made this repostory to share with you how I conduct a detailed OSINT investigation and to share my notes and checklist. We call these type of engagements INVESTIGATIONS or RESEARCHES not assesments, because you should NEVER interact directly with your target. Also I suggest you to open up the checklist and follow along with the explaination (you can find it in the usage folder)
 
 DISCLAIMER: Only conduct an OSINT research if you have explicit permission to do so. Use the tools and techniques at your own responsability. I am not accountable for any possible damage you make.
 
