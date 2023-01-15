@@ -111,3 +111,15 @@ Finish the enumeration using Shodan or Cenys. These tools can identify vulnerabi
 https://www.shodan.io/dashboard
 
 https://censys.io/
+
+If you are not satisfied with the results use Maltego and search for more information about the people, phone numbers, emails, domains...etc. Also, make a good graph about your findings using Maltego as you did with the chain of command.
+
+Wrap everything up, make sure you have an email list, username list, good screenshots about your findings and write your report.Your report must contain the followings:
+
+Cover page
+Table of contents
+Assesment Overview ((x was tasked by y to research z, this includes…etc))
+Summary
+Target, info about the target (domain-list, chain of command, phone number, list of usernames..etc)
+Technical evidence (Here you put the technique you used, a link to the tool you used, additional notes and a screenshot about the findings.)
+Recommendations (refer to security frameworks like NIST or MITRE.)
